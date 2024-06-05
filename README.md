@@ -49,7 +49,7 @@ data_analytics_dashboard/
 1. **Clone the repository**:
 
 ```sh
-git clone
+git clone https://github.com/Bebrowskiy/data_analytics_dashboard.git
 cd data_analytics_dashboard
 ```
 
